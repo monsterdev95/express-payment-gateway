@@ -3,3 +3,4 @@ dist
 .env
 src/**/*.js
 backups
+.package-lock.json
